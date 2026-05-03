@@ -47,6 +47,7 @@ curl -X POST http://localhost:3000/api/contacts \
 Test 7 : Logs de connexion backend → database
 --
 docker logs contacts-backend
+- ![Connexion](screenshots/connexion_backend_database.png)
 
 Test 8 : Isolation réseau
 ---
